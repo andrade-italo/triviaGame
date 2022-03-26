@@ -1,4 +1,4 @@
-# https://trivia-tryber.vercel.app/
+# [Link para a aplicação](https://trivia-tryber.vercel.app/)
 
 ## Esse projeto proposto pela trybe durante o modulo de front-end é um jogo de curiosidades, estilo perguntados, show do milhao, etc.
 ### Foi utilizado essa [api](https://opentdb.com/) no projeto.
