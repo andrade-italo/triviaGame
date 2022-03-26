@@ -3,4 +3,9 @@
 ### O projeto foi realizado em react, usando o redux para compor o estado global.
 ### O projeto foi realizado em dupla com o [Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/).
 
+
 ### [Link para a aplicação](https://trivia-tryber.vercel.app/)
+
+
+
+[Italo Andrade](https://www.linkedin.com/in/andrade-italo/)
